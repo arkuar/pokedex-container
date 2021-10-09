@@ -12,3 +12,6 @@ $ docker run pokedex -dp 5000:5000
 ```
 
 The app should now be running in http://localhost:5000
+
+## Heroku link
+https://arkuar-pokedex-pipeline.herokuapp.com/
